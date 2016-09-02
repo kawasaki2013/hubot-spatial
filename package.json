@@ -1,9 +1,18 @@
 {
   "name": "hubot-spatial",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
-  "author": "ynunokawa <yusuke_nunokawa@esrij.com>",
+  "author": "Yusuke Nunokawa <ynunokawa.dev@gmail.com>",
   "description": "It informs where nearby spots are for your team",
+  "license": "MIT",
+  "keywords": "hubot, hubot-scripts, leaflet, spatial, search, geocoding",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ynunokawa/hubot-spatial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ynunokawa/hubot-spatial/issues"
+  },
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
