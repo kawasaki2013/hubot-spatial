@@ -35,8 +35,8 @@ appUrl = 'https://bl.ocks.org/username/raw/gistid/?lat=' + json.candidates[0].lo
 ```
 you> 探して 東京都墨田区押上1-1-2
 hubot> 東京都墨田区押上1-1-2周辺の無料 wifi スポットだよ！
-[https://bl.ocks.org/ynunokawa/raw/8ec5c70d089a55bcabf7e3fd5dce9e39/?lat=35.71001678400046&lng=139.81074581000053](https://bl.ocks.org/ynunokawa/raw/8ec5c70d089a55bcabf7e3fd5dce9e39/?lat=35.71001678400046&lng=139.81074581000053)
+https://bl.ocks.org/ynunokawa/raw/8ec5c70d089a55bcabf7e3fd5dce9e39/?lat=35.71001678400046&lng=139.81074581000053
 you> 探して 渋谷駅
 hubot> 渋谷駅周辺の無料 wifi スポットだよ！
-[https://bl.ocks.org/ynunokawa/raw/8ec5c70d089a55bcabf7e3fd5dce9e39/?lat=35.659278473000484&lng=139.70251653400055](https://bl.ocks.org/ynunokawa/raw/8ec5c70d089a55bcabf7e3fd5dce9e39/?lat=35.659278473000484&lng=139.70251653400055)
+https://bl.ocks.org/ynunokawa/raw/8ec5c70d089a55bcabf7e3fd5dce9e39/?lat=35.659278473000484&lng=139.70251653400055
 ```

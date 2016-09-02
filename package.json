@@ -1,7 +1,6 @@
 {
   "name": "hubot-spatial",
   "version": "0.1.0",
-  "private": true,
   "author": "Yusuke Nunokawa <ynunokawa.dev@gmail.com>",
   "description": "It informs where nearby spots are for your team",
   "license": "MIT",
